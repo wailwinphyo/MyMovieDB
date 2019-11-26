@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url:  jdbc:h2:tcp://localhost/~/movie-db
+    username: sa
+    password: 
+  jpa:    hibernate:      ddl-auto: none
